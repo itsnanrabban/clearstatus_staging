@@ -57,7 +57,7 @@ params:
 
   # Layout
   eventsPerPage: 10
-
+options
 ############################################################
 ## More default config. in /config/_default/params.yml
 ############################################################
